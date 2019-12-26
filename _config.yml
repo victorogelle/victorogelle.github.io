@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "Victor Ogelle"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/profile_picture_portfolio.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Humanity | Technology | Data"
   location         : "Portland, OR"
   email            : "vcogelle@gmail.com"
